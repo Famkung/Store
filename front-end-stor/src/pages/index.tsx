@@ -1,5 +1,5 @@
-const Home = () => {
+const Index = () => {
   return <>asdas</>
 }
 
-export default Home
+export default Index
